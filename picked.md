@@ -1,3 +1,12 @@
+## 2021/12/21 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [4779](https://www.acmicpc.net/problem/4779) | [칸토어 집합](https://www.acmicpc.net/problem/4779) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [5567](https://www.acmicpc.net/problem/5567) | [결혼식](https://www.acmicpc.net/problem/5567) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20950](https://www.acmicpc.net/problem/20950) | [미술가 미미](https://www.acmicpc.net/problem/20950) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [12912](https://www.acmicpc.net/problem/12912) | [트리 수정](https://www.acmicpc.net/problem/12912) |
+
 ## 2021/12/20 
 
 | 난이도 | 번호 | 문제 이름 |
