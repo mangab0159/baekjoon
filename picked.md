@@ -1,3 +1,12 @@
+## 2022/01/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [12782](https://www.acmicpc.net/problem/12782) | [비트 우정지수](https://www.acmicpc.net/problem/12782) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9081](https://www.acmicpc.net/problem/9081) | [단어 맞추기](https://www.acmicpc.net/problem/9081) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [22862](https://www.acmicpc.net/problem/22862) | [가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14950](https://www.acmicpc.net/problem/14950) | [정복자](https://www.acmicpc.net/problem/14950) |
+
 ## 2021/12/31 
 
 | 난이도 | 번호 | 문제 이름 |
