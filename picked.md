@@ -1,3 +1,12 @@
+## 2022/01/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2748](https://www.acmicpc.net/problem/2748) | [피보나치 수 2](https://www.acmicpc.net/problem/2748) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [4358](https://www.acmicpc.net/problem/4358) | [생태학](https://www.acmicpc.net/problem/4358) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2800](https://www.acmicpc.net/problem/2800) | [괄호 제거](https://www.acmicpc.net/problem/2800) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14476](https://www.acmicpc.net/problem/14476) | [최대공약수 하나 빼기](https://www.acmicpc.net/problem/14476) |
+
 ## 2022/01/08 
 
 | 난이도 | 번호 | 문제 이름 |
