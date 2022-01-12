@@ -1,3 +1,12 @@
+## 2022/01/13 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [5766](https://www.acmicpc.net/problem/5766) | [할아버지는 유명해!](https://www.acmicpc.net/problem/5766) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11047](https://www.acmicpc.net/problem/11047) | [동전 0](https://www.acmicpc.net/problem/11047) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1711](https://www.acmicpc.net/problem/1711) | [직각삼각형](https://www.acmicpc.net/problem/1711) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [7453](https://www.acmicpc.net/problem/7453) | [합이 0인 네 정수](https://www.acmicpc.net/problem/7453) |
+
 ## 2022/01/12 
 
 | 난이도 | 번호 | 문제 이름 |
