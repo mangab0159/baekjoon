@@ -1,3 +1,12 @@
+## 2022/01/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2309](https://www.acmicpc.net/problem/2309) | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1535](https://www.acmicpc.net/problem/1535) | [안녕](https://www.acmicpc.net/problem/1535) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20207](https://www.acmicpc.net/problem/20207) | [달력](https://www.acmicpc.net/problem/20207) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [19645](https://www.acmicpc.net/problem/19645) | [햄최몇?](https://www.acmicpc.net/problem/19645) |
+
 ## 2022/01/26 
 
 | 난이도 | 번호 | 문제 이름 |
