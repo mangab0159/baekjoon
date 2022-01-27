@@ -1,3 +1,12 @@
+## 2022/01/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [6996](https://www.acmicpc.net/problem/6996) | [애너그램](https://www.acmicpc.net/problem/6996) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16398](https://www.acmicpc.net/problem/16398) | [행성 연결](https://www.acmicpc.net/problem/16398) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16932](https://www.acmicpc.net/problem/16932) | [모양 만들기](https://www.acmicpc.net/problem/16932) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [21943](https://www.acmicpc.net/problem/21943) | [연산 최대로](https://www.acmicpc.net/problem/21943) |
+
 ## 2022/01/27 
 
 | 난이도 | 번호 | 문제 이름 |
