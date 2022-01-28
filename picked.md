@@ -1,3 +1,12 @@
+## 2022/01/29 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4396](https://www.acmicpc.net/problem/4396) | [지뢰 찾기](https://www.acmicpc.net/problem/4396) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1990](https://www.acmicpc.net/problem/1990) | [소수인팰린드롬](https://www.acmicpc.net/problem/1990) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4386](https://www.acmicpc.net/problem/4386) | [별자리 만들기](https://www.acmicpc.net/problem/4386) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [20119](https://www.acmicpc.net/problem/20119) | [클레어와 물약](https://www.acmicpc.net/problem/20119) |
+
 ## 2022/01/28 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -301,7 +310,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10448](https://www.acmicpc.net/problem/10448) | [유레카 이론](https://www.acmicpc.net/problem/10448) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [11687](https://www.acmicpc.net/problem/11687) | [팩토리얼 0의 개수](https://www.acmicpc.net/problem/11687) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [22942](https://www.acmicpc.net/problem/22942) | [데이터 체커](https://www.acmicpc.net/problem/22942) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22942](https://www.acmicpc.net/problem/22942) | [데이터 체커](https://www.acmicpc.net/problem/22942) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [21757](https://www.acmicpc.net/problem/21757) | [나누기](https://www.acmicpc.net/problem/21757) |
 
 ## 2021/12/25 
