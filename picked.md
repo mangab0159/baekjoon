@@ -1,3 +1,12 @@
+## 2022/02/09 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [20546](https://www.acmicpc.net/problem/20546) | [🐜 기적의 매매법 🐜](https://www.acmicpc.net/problem/20546) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18404](https://www.acmicpc.net/problem/18404) | [현명한 나이트](https://www.acmicpc.net/problem/18404) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20061](https://www.acmicpc.net/problem/20061) | [모노미노도미노 2](https://www.acmicpc.net/problem/20061) |
+
 ## 2022/02/08 
 
 | 난이도 | 번호 | 문제 이름 |
