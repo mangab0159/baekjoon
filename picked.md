@@ -1,3 +1,12 @@
+## 2022/02/19 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [11655](https://www.acmicpc.net/problem/11655) | [ROT13](https://www.acmicpc.net/problem/11655) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15486](https://www.acmicpc.net/problem/15486) | [퇴사 2](https://www.acmicpc.net/problem/15486) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17069](https://www.acmicpc.net/problem/17069) | [파이프 옮기기 2](https://www.acmicpc.net/problem/17069) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1937](https://www.acmicpc.net/problem/1937) | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) |
+
 ## 2022/02/18 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -237,7 +246,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1942](https://www.acmicpc.net/problem/1942) | [디지털시계](https://www.acmicpc.net/problem/1942) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
 
@@ -842,7 +851,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [19844](https://www.acmicpc.net/problem/19844) | [단어 개수 세기](https://www.acmicpc.net/problem/19844) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2212](https://www.acmicpc.net/problem/2212) | [센서](https://www.acmicpc.net/problem/2212) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2225](https://www.acmicpc.net/problem/2225) | [합분해](https://www.acmicpc.net/problem/2225) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2228](https://www.acmicpc.net/problem/2228) | [구간 나누기](https://www.acmicpc.net/problem/2228) |
 
 ## 2021/11/16 
 
