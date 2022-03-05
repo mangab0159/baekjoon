@@ -1,3 +1,12 @@
+## 2022/03/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20117](https://www.acmicpc.net/problem/20117) | [호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20056](https://www.acmicpc.net/problem/20056) | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
+
 ## 2022/03/05 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -203,7 +212,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [15970](https://www.acmicpc.net/problem/15970) | [화살표 그리기](https://www.acmicpc.net/problem/15970) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2473](https://www.acmicpc.net/problem/2473) | [세 용액](https://www.acmicpc.net/problem/2473) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
 
 ## 2022/02/10 
 
@@ -2408,7 +2417,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20300](https://www.acmicpc.net/problem/20300) | [서강근육맨](https://www.acmicpc.net/problem/20300) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13398](https://www.acmicpc.net/problem/13398) | [연속합 2](https://www.acmicpc.net/problem/13398) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18866](https://www.acmicpc.net/problem/18866) | [젊은 날의 생이여](https://www.acmicpc.net/problem/18866) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/16.svg"/> | [21279](https://www.acmicpc.net/problem/21279) | [광부 호석](https://www.acmicpc.net/problem/21279) |
 
 ## 2021/06/10 
 
