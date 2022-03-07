@@ -1,3 +1,12 @@
+## 2022/03/08 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9242](https://www.acmicpc.net/problem/9242) | [폭탄 해체](https://www.acmicpc.net/problem/9242) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13022](https://www.acmicpc.net/problem/13022) | [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14496](https://www.acmicpc.net/problem/14496) | [그대, 그머가 되어](https://www.acmicpc.net/problem/14496) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16438](https://www.acmicpc.net/problem/16438) | [원숭이 스포츠](https://www.acmicpc.net/problem/16438) |
+
 ## 2022/03/07 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -445,7 +454,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1159](https://www.acmicpc.net/problem/1159) | [농구 경기](https://www.acmicpc.net/problem/1159) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13549](https://www.acmicpc.net/problem/13549) | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
 
 ## 2022/01/16 
@@ -2524,7 +2533,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1152](https://www.acmicpc.net/problem/1152) | [단어의 개수](https://www.acmicpc.net/problem/1152) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10819](https://www.acmicpc.net/problem/10819) | [차이를 최대로](https://www.acmicpc.net/problem/10819) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [19238](https://www.acmicpc.net/problem/19238) | [스타트 택시](https://www.acmicpc.net/problem/19238) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [19581](https://www.acmicpc.net/problem/19581) | [두 번째 트리의 지름](https://www.acmicpc.net/problem/19581) |
 
 ## 2021/05/30 
@@ -2632,7 +2641,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [10808](https://www.acmicpc.net/problem/10808) | [알파벳 개수](https://www.acmicpc.net/problem/10808) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1926](https://www.acmicpc.net/problem/1926) | [그림](https://www.acmicpc.net/problem/1926) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14891](https://www.acmicpc.net/problem/14891) | [톱니바퀴](https://www.acmicpc.net/problem/14891) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14891](https://www.acmicpc.net/problem/14891) | [톱니바퀴](https://www.acmicpc.net/problem/14891) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11779](https://www.acmicpc.net/problem/11779) | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) |
 
 ## 2021/05/18 
