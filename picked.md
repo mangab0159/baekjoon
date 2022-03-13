@@ -1,3 +1,12 @@
+## 2022/03/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [9342](https://www.acmicpc.net/problem/9342) | [염색체](https://www.acmicpc.net/problem/9342) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14620](https://www.acmicpc.net/problem/14620) | [꽃길](https://www.acmicpc.net/problem/14620) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [11404](https://www.acmicpc.net/problem/11404) | [플로이드](https://www.acmicpc.net/problem/11404) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1030](https://www.acmicpc.net/problem/1030) | [프렉탈 평면](https://www.acmicpc.net/problem/1030) |
+
 ## 2022/03/13 
 
 | 난이도 | 번호 | 문제 이름 |
