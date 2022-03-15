@@ -1,3 +1,12 @@
+## 2022/03/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20551](https://www.acmicpc.net/problem/20551) | [Sort 마스터 배지훈의 후계자](https://www.acmicpc.net/problem/20551) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [11057](https://www.acmicpc.net/problem/11057) | [오르막 수](https://www.acmicpc.net/problem/11057) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15566](https://www.acmicpc.net/problem/15566) | [개구리 1](https://www.acmicpc.net/problem/15566) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [20181](https://www.acmicpc.net/problem/20181) | [꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181) |
+
 ## 2022/03/15 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -740,7 +749,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [1864](https://www.acmicpc.net/problem/1864) | [문어 숫자](https://www.acmicpc.net/problem/1864) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1864](https://www.acmicpc.net/problem/1864) | [문어 숫자](https://www.acmicpc.net/problem/1864) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [20438](https://www.acmicpc.net/problem/20438) | [출석체크](https://www.acmicpc.net/problem/20438) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [15681](https://www.acmicpc.net/problem/15681) | [트리와 쿼리](https://www.acmicpc.net/problem/15681) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [4315](https://www.acmicpc.net/problem/4315) | [나무 위의 구슬](https://www.acmicpc.net/problem/4315) |
@@ -2408,7 +2417,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [19532](https://www.acmicpc.net/problem/19532) | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11722](https://www.acmicpc.net/problem/11722) | [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [19641](https://www.acmicpc.net/problem/19641) | [중첩 집합 모델](https://www.acmicpc.net/problem/19641) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1414](https://www.acmicpc.net/problem/1414) | [불우이웃돕기](https://www.acmicpc.net/problem/1414) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1414](https://www.acmicpc.net/problem/1414) | [불우이웃돕기](https://www.acmicpc.net/problem/1414) |
 
 ## 2021/06/20 
 
@@ -2480,7 +2489,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2309](https://www.acmicpc.net/problem/2309) | [일곱 난쟁이](https://www.acmicpc.net/problem/2309) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14400](https://www.acmicpc.net/problem/14400) | [편의점 2](https://www.acmicpc.net/problem/14400) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [17291](https://www.acmicpc.net/problem/17291) | [새끼치기](https://www.acmicpc.net/problem/17291) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [17490](https://www.acmicpc.net/problem/17490) | [일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [17490](https://www.acmicpc.net/problem/17490) | [일감호에 다리 놓기](https://www.acmicpc.net/problem/17490) |
 
 ## 2021/06/12 
 
