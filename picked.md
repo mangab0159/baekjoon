@@ -1,3 +1,12 @@
+## 2022/04/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15991](https://www.acmicpc.net/problem/15991) | [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17610](https://www.acmicpc.net/problem/17610) | [양팔저울](https://www.acmicpc.net/problem/17610) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2637](https://www.acmicpc.net/problem/2637) | [장난감 조립](https://www.acmicpc.net/problem/2637) |
+
 ## 2022/03/31 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -463,7 +472,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [11365](https://www.acmicpc.net/problem/11365) | [!밀비 급일](https://www.acmicpc.net/problem/11365) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1600](https://www.acmicpc.net/problem/1600) | [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22866](https://www.acmicpc.net/problem/22866) | [탑 보기](https://www.acmicpc.net/problem/22866) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22866](https://www.acmicpc.net/problem/22866) | [탑 보기](https://www.acmicpc.net/problem/22866) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2406](https://www.acmicpc.net/problem/2406) | [안정적인 네트워크](https://www.acmicpc.net/problem/2406) |
 
 ## 2022/02/07 
