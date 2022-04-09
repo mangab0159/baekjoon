@@ -1,3 +1,12 @@
+## 2022/04/10 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [9655](https://www.acmicpc.net/problem/9655) | [돌 게임](https://www.acmicpc.net/problem/9655) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17216](https://www.acmicpc.net/problem/17216) | [가장 큰 감소 부분 수열](https://www.acmicpc.net/problem/17216) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [12919](https://www.acmicpc.net/problem/12919) | [A와 B 2](https://www.acmicpc.net/problem/12919) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1949](https://www.acmicpc.net/problem/1949) | [우수 마을](https://www.acmicpc.net/problem/1949) |
+
 ## 2022/04/09 
 
 | 난이도 | 번호 | 문제 이름 |
