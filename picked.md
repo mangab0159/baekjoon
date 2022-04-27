@@ -1,3 +1,12 @@
+## 2022/04/28 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1021](https://www.acmicpc.net/problem/1021) | [회전하는 큐](https://www.acmicpc.net/problem/1021) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [13398](https://www.acmicpc.net/problem/13398) | [연속합 2](https://www.acmicpc.net/problem/13398) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17404](https://www.acmicpc.net/problem/17404) | [RGB거리 2](https://www.acmicpc.net/problem/17404) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16947](https://www.acmicpc.net/problem/16947) | [서울 지하철 2호선](https://www.acmicpc.net/problem/16947) |
+
 ## 2022/04/27 
 
 | 난이도 | 번호 | 문제 이름 |
