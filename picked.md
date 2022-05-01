@@ -1,3 +1,12 @@
+## 2022/05/02 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1302](https://www.acmicpc.net/problem/1302) | [베스트셀러](https://www.acmicpc.net/problem/1302) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2644](https://www.acmicpc.net/problem/2644) | [촌수계산](https://www.acmicpc.net/problem/2644) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20444](https://www.acmicpc.net/problem/20444) | [색종이와 가위](https://www.acmicpc.net/problem/20444) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [5624](https://www.acmicpc.net/problem/5624) | [좋은 수](https://www.acmicpc.net/problem/5624) |
+
 ## 2022/05/01 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2091,7 +2100,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [11256](https://www.acmicpc.net/problem/11256) | [사탕](https://www.acmicpc.net/problem/11256) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15992](https://www.acmicpc.net/problem/15992) | [1, 2, 3 더하기 7](https://www.acmicpc.net/problem/15992) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2058](https://www.acmicpc.net/problem/2058) | [원자의 에너지](https://www.acmicpc.net/problem/2058) |
 
