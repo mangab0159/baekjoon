@@ -1,3 +1,12 @@
+## 2022/05/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1764](https://www.acmicpc.net/problem/1764) | [듣보잡](https://www.acmicpc.net/problem/1764) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16926](https://www.acmicpc.net/problem/16926) | [배열 돌리기 1](https://www.acmicpc.net/problem/16926) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [16938](https://www.acmicpc.net/problem/16938) | [캠프 준비](https://www.acmicpc.net/problem/16938) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11085](https://www.acmicpc.net/problem/11085) | [군사 이동](https://www.acmicpc.net/problem/11085) |
+
 ## 2022/05/13 
 
 | 난이도 | 번호 | 문제 이름 |
