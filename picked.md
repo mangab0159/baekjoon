@@ -1,3 +1,12 @@
+## 2022/06/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [6159](https://www.acmicpc.net/problem/6159) | [코스튬 파티](https://www.acmicpc.net/problem/6159) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1660](https://www.acmicpc.net/problem/1660) | [캡틴 이다솜](https://www.acmicpc.net/problem/1660) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16168](https://www.acmicpc.net/problem/16168) | [퍼레이드](https://www.acmicpc.net/problem/16168) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1726](https://www.acmicpc.net/problem/1726) | [로봇](https://www.acmicpc.net/problem/1726) |
+
 ## 2022/06/04 
 
 | 난이도 | 번호 | 문제 이름 |
