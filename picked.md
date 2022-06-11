@@ -1,3 +1,12 @@
+## 2022/06/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [21919](https://www.acmicpc.net/problem/21919) | [소수 최소 공배수](https://www.acmicpc.net/problem/21919) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [6443](https://www.acmicpc.net/problem/6443) | [애너그램](https://www.acmicpc.net/problem/6443) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14719](https://www.acmicpc.net/problem/14719) | [빗물](https://www.acmicpc.net/problem/14719) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1516](https://www.acmicpc.net/problem/1516) | [게임 개발](https://www.acmicpc.net/problem/1516) |
+
 ## 2022/06/11 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -641,7 +650,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15991](https://www.acmicpc.net/problem/15991) | [1, 2, 3 더하기 6](https://www.acmicpc.net/problem/15991) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [17610](https://www.acmicpc.net/problem/17610) | [양팔저울](https://www.acmicpc.net/problem/17610) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [2637](https://www.acmicpc.net/problem/2637) | [장난감 조립](https://www.acmicpc.net/problem/2637) |
@@ -2990,7 +2999,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [15489](https://www.acmicpc.net/problem/15489) | [파스칼 삼각형](https://www.acmicpc.net/problem/15489) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [4811](https://www.acmicpc.net/problem/4811) | [알약](https://www.acmicpc.net/problem/4811) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14719](https://www.acmicpc.net/problem/14719) | [빗물](https://www.acmicpc.net/problem/14719) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16724](https://www.acmicpc.net/problem/16724) | [피리 부는 사나이](https://www.acmicpc.net/problem/16724) |
