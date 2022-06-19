@@ -1,3 +1,12 @@
+## 2022/06/20 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [13413](https://www.acmicpc.net/problem/13413) | [오셀로 재배치](https://www.acmicpc.net/problem/13413) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [14921](https://www.acmicpc.net/problem/14921) | [용액 합성하기](https://www.acmicpc.net/problem/14921) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [19542](https://www.acmicpc.net/problem/19542) | [전단지 돌리기](https://www.acmicpc.net/problem/19542) |
+
 ## 2022/06/19 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -77,7 +86,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14940](https://www.acmicpc.net/problem/14940) | [쉬운 최단거리](https://www.acmicpc.net/problem/14940) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [17836](https://www.acmicpc.net/problem/17836) | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1595](https://www.acmicpc.net/problem/1595) | [북쪽나라의 도로](https://www.acmicpc.net/problem/1595) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1595](https://www.acmicpc.net/problem/1595) | [북쪽나라의 도로](https://www.acmicpc.net/problem/1595) |
 
 ## 2022/06/10 
 
@@ -2417,7 +2426,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [3273](https://www.acmicpc.net/problem/3273) | [두 수의 합](https://www.acmicpc.net/problem/3273) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1780](https://www.acmicpc.net/problem/1780) | [종이의 개수](https://www.acmicpc.net/problem/1780) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1753](https://www.acmicpc.net/problem/1753) | [최단경로](https://www.acmicpc.net/problem/1753) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1595](https://www.acmicpc.net/problem/1595) | [북쪽나라의 도로](https://www.acmicpc.net/problem/1595) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1595](https://www.acmicpc.net/problem/1595) | [북쪽나라의 도로](https://www.acmicpc.net/problem/1595) |
 
 ## 2021/09/23 
 
