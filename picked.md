@@ -1,3 +1,12 @@
+## 2022/07/03 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1213](https://www.acmicpc.net/problem/1213) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1213) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1743](https://www.acmicpc.net/problem/1743) | [음식물 피하기](https://www.acmicpc.net/problem/1743) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1890](https://www.acmicpc.net/problem/1890) | [점프](https://www.acmicpc.net/problem/1890) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2448](https://www.acmicpc.net/problem/2448) | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) |
+
 ## 2022/07/02 
 
 | 난이도 | 번호 | 문제 이름 |
