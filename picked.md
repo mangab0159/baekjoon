@@ -1,3 +1,12 @@
+## 2022/07/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [10974](https://www.acmicpc.net/problem/10974) | [모든 순열](https://www.acmicpc.net/problem/10974) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1527](https://www.acmicpc.net/problem/1527) | [금민수의 개수](https://www.acmicpc.net/problem/1527) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2285](https://www.acmicpc.net/problem/2285) | [우체국](https://www.acmicpc.net/problem/2285) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2374](https://www.acmicpc.net/problem/2374) | [같은 수로 만들기](https://www.acmicpc.net/problem/2374) |
+
 ## 2022/07/04 
 
 | 난이도 | 번호 | 문제 이름 |
