@@ -1,3 +1,12 @@
+## 2022/07/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1935](https://www.acmicpc.net/problem/1935) | [후위 표기식2](https://www.acmicpc.net/problem/1935) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2671](https://www.acmicpc.net/problem/2671) | [잠수함식별](https://www.acmicpc.net/problem/2671) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1956](https://www.acmicpc.net/problem/1956) | [운동](https://www.acmicpc.net/problem/1956) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1967](https://www.acmicpc.net/problem/1967) | [트리의 지름](https://www.acmicpc.net/problem/1967) |
+
 ## 2022/07/11 
 
 | 난이도 | 번호 | 문제 이름 |
