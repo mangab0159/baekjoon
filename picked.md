@@ -1,3 +1,12 @@
+## 2022/07/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2193](https://www.acmicpc.net/problem/2193) | [이친수](https://www.acmicpc.net/problem/2193) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2660](https://www.acmicpc.net/problem/2660) | [회장뽑기](https://www.acmicpc.net/problem/2660) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1753](https://www.acmicpc.net/problem/1753) | [최단경로](https://www.acmicpc.net/problem/1753) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1757](https://www.acmicpc.net/problem/1757) | [달려달려](https://www.acmicpc.net/problem/1757) |
+
 ## 2022/07/15 
 
 | 난이도 | 번호 | 문제 이름 |
