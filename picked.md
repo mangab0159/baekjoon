@@ -1,3 +1,12 @@
+## 2022/07/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2512](https://www.acmicpc.net/problem/2512) | [예산](https://www.acmicpc.net/problem/2512) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17413](https://www.acmicpc.net/problem/17413) | [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17451](https://www.acmicpc.net/problem/17451) | [평행 우주](https://www.acmicpc.net/problem/17451) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1717](https://www.acmicpc.net/problem/1717) | [집합의 표현](https://www.acmicpc.net/problem/1717) |
+
 ## 2022/07/17 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -32,7 +41,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1972](https://www.acmicpc.net/problem/1972) | [놀라운 문자열](https://www.acmicpc.net/problem/1972) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [18429](https://www.acmicpc.net/problem/18429) | [근손실](https://www.acmicpc.net/problem/18429) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1342](https://www.acmicpc.net/problem/1342) | [행운의 문자열](https://www.acmicpc.net/problem/1342) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1301](https://www.acmicpc.net/problem/1301) | [비즈 공예](https://www.acmicpc.net/problem/1301) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1301](https://www.acmicpc.net/problem/1301) | [비즈 공예](https://www.acmicpc.net/problem/1301) |
 
 ## 2022/07/13 
 
@@ -1202,7 +1211,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2167](https://www.acmicpc.net/problem/2167) | [2차원 배열의 합](https://www.acmicpc.net/problem/2167) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20117](https://www.acmicpc.net/problem/20117) | [호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [20056](https://www.acmicpc.net/problem/20056) | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [22860](https://www.acmicpc.net/problem/22860) | [폴더 정리 (small)](https://www.acmicpc.net/problem/22860) |
 
 ## 2022/03/05 
 
@@ -2300,7 +2309,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10866](https://www.acmicpc.net/problem/10866) | [덱](https://www.acmicpc.net/problem/10866) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2824](https://www.acmicpc.net/problem/2824) | [최대공약수](https://www.acmicpc.net/problem/2824) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3067](https://www.acmicpc.net/problem/3067) | [Coins](https://www.acmicpc.net/problem/3067) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1301](https://www.acmicpc.net/problem/1301) | [비즈 공예](https://www.acmicpc.net/problem/1301) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1301](https://www.acmicpc.net/problem/1301) | [비즈 공예](https://www.acmicpc.net/problem/1301) |
 
 ## 2021/11/03 
 
