@@ -1,3 +1,12 @@
+## 2022/08/25 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9342](https://www.acmicpc.net/problem/9342) | [염색체](https://www.acmicpc.net/problem/9342) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [20117](https://www.acmicpc.net/problem/20117) | [호반우 상인의 이상한 품질 계산법](https://www.acmicpc.net/problem/20117) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [10653](https://www.acmicpc.net/problem/10653) | [마라톤 2](https://www.acmicpc.net/problem/10653) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [15659](https://www.acmicpc.net/problem/15659) | [연산자 끼워넣기 (3)](https://www.acmicpc.net/problem/15659) |
+
 ## 2022/08/24 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -561,7 +570,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [20436](https://www.acmicpc.net/problem/20436) | [ZOAC 3](https://www.acmicpc.net/problem/20436) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17144](https://www.acmicpc.net/problem/17144) | [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://www.acmicpc.net/problem/17471) |
 
@@ -2381,7 +2390,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2003](https://www.acmicpc.net/problem/2003) | [수들의 합 2](https://www.acmicpc.net/problem/2003) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14889](https://www.acmicpc.net/problem/14889) | [스타트와 링크](https://www.acmicpc.net/problem/14889) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1927](https://www.acmicpc.net/problem/1927) | [최소 힙](https://www.acmicpc.net/problem/1927) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1932](https://www.acmicpc.net/problem/1932) | [정수 삼각형](https://www.acmicpc.net/problem/1932) |
 
 ## 2021/12/02 
 
