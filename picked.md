@@ -1,3 +1,12 @@
+## 2022/09/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | [11720](https://www.acmicpc.net/problem/11720) | [숫자의 합](https://www.acmicpc.net/problem/11720) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15988](https://www.acmicpc.net/problem/15988) | [1, 2, 3 더하기 3](https://www.acmicpc.net/problem/15988) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [9465](https://www.acmicpc.net/problem/9465) | [스티커](https://www.acmicpc.net/problem/9465) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [15732](https://www.acmicpc.net/problem/15732) | [도토리 숨기기](https://www.acmicpc.net/problem/15732) |
+
 ## 2022/08/31 
 
 | 난이도 | 번호 | 문제 이름 |
