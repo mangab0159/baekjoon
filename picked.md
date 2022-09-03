@@ -1,3 +1,12 @@
+## 2022/09/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [4690](https://www.acmicpc.net/problem/4690) | [완전 세제곱](https://www.acmicpc.net/problem/4690) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3584](https://www.acmicpc.net/problem/3584) | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [11780](https://www.acmicpc.net/problem/11780) | [플로이드 2](https://www.acmicpc.net/problem/11780) |
+
 ## 2022/09/03 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -436,7 +445,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2346](https://www.acmicpc.net/problem/2346) | [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [17626](https://www.acmicpc.net/problem/17626) | [Four Squares](https://www.acmicpc.net/problem/17626) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1749](https://www.acmicpc.net/problem/1749) | [점수따먹기](https://www.acmicpc.net/problem/1749) |
 
 ## 2022/07/16 
@@ -2813,7 +2822,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2960](https://www.acmicpc.net/problem/2960) | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1719](https://www.acmicpc.net/problem/1719) | [택배](https://www.acmicpc.net/problem/1719) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1726](https://www.acmicpc.net/problem/1726) | [로봇](https://www.acmicpc.net/problem/1726) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1744](https://www.acmicpc.net/problem/1744) | [수 묶기](https://www.acmicpc.net/problem/1744) |
 
 ## 2021/10/25 
 
