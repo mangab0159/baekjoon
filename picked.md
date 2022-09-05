@@ -1,3 +1,12 @@
+## 2022/09/06 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9375](https://www.acmicpc.net/problem/9375) | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [22871](https://www.acmicpc.net/problem/22871) | [징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13397](https://www.acmicpc.net/problem/13397) | [구간 나누기 2](https://www.acmicpc.net/problem/13397) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [19566](https://www.acmicpc.net/problem/19566) | [수열의 구간 평균](https://www.acmicpc.net/problem/19566) |
+
 ## 2022/09/05 
 
 | 난이도 | 번호 | 문제 이름 |
