@@ -1,3 +1,12 @@
+## 2022/10/27 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [2609](https://www.acmicpc.net/problem/2609) | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [12101](https://www.acmicpc.net/problem/12101) | [1, 2, 3 더하기 2](https://www.acmicpc.net/problem/12101) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14575](https://www.acmicpc.net/problem/14575) | [뒤풀이](https://www.acmicpc.net/problem/14575) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [14657](https://www.acmicpc.net/problem/14657) | [준오는 최종인재야!!](https://www.acmicpc.net/problem/14657) |
+
 ## 2022/10/26 
 
 | 난이도 | 번호 | 문제 이름 |
