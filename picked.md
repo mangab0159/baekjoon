@@ -1,3 +1,12 @@
+## 2022/11/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [14467](https://www.acmicpc.net/problem/14467) | [소가 길을 건너간 이유 1](https://www.acmicpc.net/problem/14467) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [15665](https://www.acmicpc.net/problem/15665) | [N과 M (11)](https://www.acmicpc.net/problem/15665) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [6497](https://www.acmicpc.net/problem/6497) | [전력난](https://www.acmicpc.net/problem/6497) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [9007](https://www.acmicpc.net/problem/9007) | [카누 선수](https://www.acmicpc.net/problem/9007) |
+
 ## 2022/11/03 
 
 | 난이도 | 번호 | 문제 이름 |
