@@ -1,3 +1,12 @@
+## 2022/12/05 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [4446](https://www.acmicpc.net/problem/4446) | [ROT13](https://www.acmicpc.net/problem/4446) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13902](https://www.acmicpc.net/problem/13902) | [개업 2](https://www.acmicpc.net/problem/13902) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13905](https://www.acmicpc.net/problem/13905) | [세부](https://www.acmicpc.net/problem/13905) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3673](https://www.acmicpc.net/problem/3673) | [나눌 수 있는 부분 수열](https://www.acmicpc.net/problem/3673) |
+
 ## 2022/12/04 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2838,7 +2847,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [1942](https://www.acmicpc.net/problem/1942) | [디지털시계](https://www.acmicpc.net/problem/1942) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2615](https://www.acmicpc.net/problem/2615) | [오목](https://www.acmicpc.net/problem/2615) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [18243](https://www.acmicpc.net/problem/18243) | [Small World Network](https://www.acmicpc.net/problem/18243) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14595](https://www.acmicpc.net/problem/14595) | [동방 프로젝트 (Large)](https://www.acmicpc.net/problem/14595) |
 
