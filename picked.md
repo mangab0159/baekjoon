@@ -1,3 +1,12 @@
+## 2022/12/22 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1018](https://www.acmicpc.net/problem/1018) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [16948](https://www.acmicpc.net/problem/16948) | [데스 나이트](https://www.acmicpc.net/problem/16948) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14500](https://www.acmicpc.net/problem/14500) | [테트로미노](https://www.acmicpc.net/problem/14500) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
+
 ## 2022/12/21 
 
 | 난이도 | 번호 | 문제 이름 |
