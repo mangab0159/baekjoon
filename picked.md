@@ -1,3 +1,12 @@
+## 2023/01/23 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [18258](https://www.acmicpc.net/problem/18258) | [큐 2](https://www.acmicpc.net/problem/18258) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2504](https://www.acmicpc.net/problem/2504) | [괄호의 값](https://www.acmicpc.net/problem/2504) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15831](https://www.acmicpc.net/problem/15831) | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2252](https://www.acmicpc.net/problem/2252) | [줄 세우기](https://www.acmicpc.net/problem/2252) |
+
 ## 2023/01/22 
 
 | 난이도 | 번호 | 문제 이름 |
