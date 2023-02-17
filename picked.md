@@ -1,3 +1,12 @@
+## 2023/02/18 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [16960](https://www.acmicpc.net/problem/16960) | [스위치와 램프](https://www.acmicpc.net/problem/16960) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [20115](https://www.acmicpc.net/problem/20115) | [에너지 드링크](https://www.acmicpc.net/problem/20115) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [20165](https://www.acmicpc.net/problem/20165) | [인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1301](https://www.acmicpc.net/problem/1301) | [비즈 공예](https://www.acmicpc.net/problem/1301) |
+
 ## 2023/02/17 
 
 | 난이도 | 번호 | 문제 이름 |
