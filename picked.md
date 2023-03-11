@@ -1,3 +1,12 @@
+## 2023/03/12 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [2852](https://www.acmicpc.net/problem/2852) | [NBA 농구](https://www.acmicpc.net/problem/2852) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [16937](https://www.acmicpc.net/problem/16937) | [두 스티커](https://www.acmicpc.net/problem/16937) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [3079](https://www.acmicpc.net/problem/3079) | [입국심사](https://www.acmicpc.net/problem/3079) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2015](https://www.acmicpc.net/problem/2015) | [수들의 합 4](https://www.acmicpc.net/problem/2015) |
+
 ## 2023/03/11 
 
 | 난이도 | 번호 | 문제 이름 |
