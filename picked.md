@@ -1,3 +1,12 @@
+## 2023/03/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9461](https://www.acmicpc.net/problem/9461) | [파도반 수열](https://www.acmicpc.net/problem/9461) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1189](https://www.acmicpc.net/problem/1189) | [컴백홈](https://www.acmicpc.net/problem/1189) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1283](https://www.acmicpc.net/problem/1283) | [단축키 지정](https://www.acmicpc.net/problem/1283) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1976](https://www.acmicpc.net/problem/1976) | [여행 가자](https://www.acmicpc.net/problem/1976) |
+
 ## 2023/03/13 
 
 | 난이도 | 번호 | 문제 이름 |
