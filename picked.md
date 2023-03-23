@@ -1,3 +1,12 @@
+## 2023/03/24 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1025](https://www.acmicpc.net/problem/1025) | [제곱수 찾기](https://www.acmicpc.net/problem/1025) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [1038](https://www.acmicpc.net/problem/1038) | [감소하는 수](https://www.acmicpc.net/problem/1038) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1277](https://www.acmicpc.net/problem/1277) | [발전소 설치](https://www.acmicpc.net/problem/1277) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1633](https://www.acmicpc.net/problem/1633) | [최고의 팀 만들기](https://www.acmicpc.net/problem/1633) |
+
 ## 2023/03/23 
 
 | 난이도 | 번호 | 문제 이름 |
