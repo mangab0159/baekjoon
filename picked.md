@@ -1,3 +1,12 @@
+## 2023/03/30 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [9095](https://www.acmicpc.net/problem/9095) | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [10799](https://www.acmicpc.net/problem/10799) | [쇠막대기](https://www.acmicpc.net/problem/10799) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16973](https://www.acmicpc.net/problem/16973) | [직사각형 탈출](https://www.acmicpc.net/problem/16973) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [12896](https://www.acmicpc.net/problem/12896) | [스크루지 민호](https://www.acmicpc.net/problem/12896) |
+
 ## 2023/03/29 
 
 | 난이도 | 번호 | 문제 이름 |
