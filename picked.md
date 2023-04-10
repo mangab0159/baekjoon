@@ -1,3 +1,12 @@
+## 2023/04/11 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [20944](https://www.acmicpc.net/problem/20944) | [팰린드롬 척화비](https://www.acmicpc.net/problem/20944) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [13022](https://www.acmicpc.net/problem/13022) | [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14852](https://www.acmicpc.net/problem/14852) | [타일 채우기 3](https://www.acmicpc.net/problem/14852) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16890](https://www.acmicpc.net/problem/16890) | [창업](https://www.acmicpc.net/problem/16890) |
+
 ## 2023/04/10 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -2811,7 +2820,7 @@
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [4949](https://www.acmicpc.net/problem/4949) | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [2075](https://www.acmicpc.net/problem/2075) | [N번째 큰 수](https://www.acmicpc.net/problem/2075) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [1865](https://www.acmicpc.net/problem/1865) | [웜홀](https://www.acmicpc.net/problem/1865) |
 
@@ -4450,7 +4459,7 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [1966](https://www.acmicpc.net/problem/1966) | [프린터 큐](https://www.acmicpc.net/problem/1966) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2011](https://www.acmicpc.net/problem/2011) | [암호코드](https://www.acmicpc.net/problem/2011) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2022](https://www.acmicpc.net/problem/2022) | [사다리](https://www.acmicpc.net/problem/2022) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [2110](https://www.acmicpc.net/problem/2110) | [공유기 설치](https://www.acmicpc.net/problem/2110) |
 
 ## 2021/11/30 
