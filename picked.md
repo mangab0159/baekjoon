@@ -1,3 +1,12 @@
+## 2023/04/14 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [21918](https://www.acmicpc.net/problem/21918) | [전구](https://www.acmicpc.net/problem/21918) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [9079](https://www.acmicpc.net/problem/9079) | [동전 게임](https://www.acmicpc.net/problem/9079) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [4803](https://www.acmicpc.net/problem/4803) | [트리](https://www.acmicpc.net/problem/4803) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [3665](https://www.acmicpc.net/problem/3665) | [최종 순위](https://www.acmicpc.net/problem/3665) |
+
 ## 2023/04/13 
 
 | 난이도 | 번호 | 문제 이름 |
