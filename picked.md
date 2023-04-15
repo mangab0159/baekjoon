@@ -1,3 +1,12 @@
+## 2023/04/16 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [9094](https://www.acmicpc.net/problem/9094) | [수학적 호기심](https://www.acmicpc.net/problem/9094) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [22871](https://www.acmicpc.net/problem/22871) | [징검다리 건너기 (large)](https://www.acmicpc.net/problem/22871) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [17951](https://www.acmicpc.net/problem/17951) | [흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [8972](https://www.acmicpc.net/problem/8972) | [미친 아두이노](https://www.acmicpc.net/problem/8972) |
+
 ## 2023/04/15 
 
 | 난이도 | 번호 | 문제 이름 |
