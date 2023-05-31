@@ -1,3 +1,12 @@
+## 2023/06/01 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [2798](https://www.acmicpc.net/problem/2798) | [블랙잭](https://www.acmicpc.net/problem/2798) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [5639](https://www.acmicpc.net/problem/5639) | [이진 검색 트리](https://www.acmicpc.net/problem/5639) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [9084](https://www.acmicpc.net/problem/9084) | [동전](https://www.acmicpc.net/problem/9084) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [1729](https://www.acmicpc.net/problem/1729) | [이차원 배열의 합](https://www.acmicpc.net/problem/1729) |
+
 ## 2023/05/31 
 
 | 난이도 | 번호 | 문제 이름 |
