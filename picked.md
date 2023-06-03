@@ -1,3 +1,12 @@
+## 2023/06/04 
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [3040](https://www.acmicpc.net/problem/3040) | [백설 공주와 일곱 난쟁이](https://www.acmicpc.net/problem/3040) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1058](https://www.acmicpc.net/problem/1058) | [친구](https://www.acmicpc.net/problem/1058) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [11055](https://www.acmicpc.net/problem/11055) | [가장 큰 증가하는 부분 수열](https://www.acmicpc.net/problem/11055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [18234](https://www.acmicpc.net/problem/18234) | [당근 훔쳐 먹기](https://www.acmicpc.net/problem/18234) |
+
 ## 2023/06/03 
 
 | 난이도 | 번호 | 문제 이름 |
@@ -1685,7 +1694,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15724](https://www.acmicpc.net/problem/15724) | [주지수](https://www.acmicpc.net/problem/15724) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [18866](https://www.acmicpc.net/problem/18866) | [젊은 날의 생이여](https://www.acmicpc.net/problem/18866) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [1766](https://www.acmicpc.net/problem/1766) | [문제집](https://www.acmicpc.net/problem/1766) |
@@ -3881,7 +3890,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [16432](https://www.acmicpc.net/problem/16432) | [떡장수와 호랑이](https://www.acmicpc.net/problem/16432) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [11562](https://www.acmicpc.net/problem/11562) | [백양로 브레이크](https://www.acmicpc.net/problem/11562) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [3165](https://www.acmicpc.net/problem/3165) | [5](https://www.acmicpc.net/problem/3165) |
@@ -5816,7 +5825,7 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [2422](https://www.acmicpc.net/problem/2422) | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [15566](https://www.acmicpc.net/problem/15566) | [개구리 1](https://www.acmicpc.net/problem/15566) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [13905](https://www.acmicpc.net/problem/13905) | [세부](https://www.acmicpc.net/problem/13905) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [15789](https://www.acmicpc.net/problem/15789) | [CTP 왕국은 한솔 왕국을 이길 수 있을까?](https://www.acmicpc.net/problem/15789) |
